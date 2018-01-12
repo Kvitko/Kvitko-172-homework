@@ -5,4 +5,4 @@
 
 [Lorem Ipsum Generator](https://ru.lipsum.com/)
 
-![Alt text] (https://camo.githubusercontent.com/6bbea9a9aa52b24f7d3a1d56ab7855db445180a7/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a7453797576335a5243667353443561584237763844512e706e67.jpg)
+![Alt text] (http://bipbap.ru/wp-content/uploads/2017/09/Cool-High-Resolution-Wallpaper-1920x1080.jpg)
